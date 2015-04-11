@@ -63,6 +63,19 @@ img {
   }
 }
 
+#icons {
+  margin-right: 1em;
+}
+
+#svg-list li {
+  display: inline;
+}
+
+.svg-icon {
+  width: 70px;
+  height: 70px;
+}
+
 /*a bit bigger, but still small*/
 @media (min-width: 667px) and (max-width: 1023px) {
   #header #name {
